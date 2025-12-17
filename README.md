@@ -34,4 +34,4 @@ This project keeps a local in-memory copy of the order book and updates it in re
 	- The UI derives sorted bid/ask arrays from that state and renders the top N levels.
 
 # Live Demo
-`TODO:<URL HERE>`
+[https://binance-order-book.vercel.app/](https://binance-order-book.vercel.app/)
