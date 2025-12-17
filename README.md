@@ -33,5 +33,6 @@ This project keeps a local in-memory copy of the order book and updates it in re
 	- Each WebSocket update applies inserts/updates/removals (a quantity of `0` removes a level).
 	- The UI derives sorted bid/ask arrays from that state and renders the top N levels.
 
-# Live Demo
+# Preview and Live Demo
 [https://binance-order-book.vercel.app/](https://binance-order-book.vercel.app/)
+<img width="479" height="978" alt="image" src="https://github.com/user-attachments/assets/ddca9765-c82b-4094-9559-03d68adde844" />
