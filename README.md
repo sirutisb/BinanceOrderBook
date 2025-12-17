@@ -36,3 +36,11 @@ This project keeps a local in-memory copy of the order book and updates it in re
 # Preview and Live Demo
 [https://binance-order-book.vercel.app/](https://binance-order-book.vercel.app/)
 <img width="479" height="978" alt="image" src="https://github.com/user-attachments/assets/ddca9765-c82b-4094-9559-03d68adde844" />
+
+---
+
+## Official Documentation Reference
+
+The order book synchronization algorithm is based on the official Binance documentation:
+
+[How to manage a local order book correctly (Binance API Docs)](https://developers.binance.com/docs/binance-spot-api-docs/web-socket-streams#how-to-manage-a-local-order-book-correctly)
