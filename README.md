@@ -37,6 +37,7 @@ This project keeps a local in-memory copy of the order book and updates it in re
 Demo Link: [https://binance-order-book.vercel.app/](https://binance-order-book.vercel.app/)
 
 <img width="239" height="489" alt="image" src="https://github.com/user-attachments/assets/ddca9765-c82b-4094-9559-03d68adde844" />
+
 ---
 
 ## Official Documentation Reference
